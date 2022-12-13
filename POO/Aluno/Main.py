@@ -4,3 +4,6 @@ def main():
     aluno1 = Aluno()
     aluno2 = Aluno()
     aluno3 = Aluno()
+
+    
+    aluno1.aumentaIdade()
